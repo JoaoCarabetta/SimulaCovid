@@ -1,0 +1,357 @@
+,municipio,confirmed,date,deaths,discarded,notes,notified,place_type,source_url,uf,suspect,last_update,municipio_uf
+0,Almirante Tamandaré,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,ALMIRANTE TAMANDARE PR
+1,Altônia,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,ALTONIA PR
+2,Alto Paraná,0,2020-03-21,,3.0,,3.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,ALTO PARANA PR
+3,Alvorada do Sul,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,ALVORADA DO SUL PR
+4,Ampére,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,AMPERE PR
+5,Apucarana,0,2020-03-21,,1.0,,3.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,APUCARANA PR
+6,Arapongas,0,2020-03-21,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,ARAPONGAS PR
+7,Araucária,0,2020-03-21,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,ARAUCARIA PR
+8,Assis Chateaubriand,0,2020-03-21,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,ASSIS CHATEAUBRIAND PR
+9,Bandeirantes,0,2020-03-21,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,BANDEIRANTES PR
+10,Cambé,0,2020-03-21,,1.0,,5.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,4.0,2020-03-21 18:49:48.295500,CAMBE PR
+11,Campo Largo,1,2020-03-21,,1.0,,7.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,5.0,2020-03-21 18:49:48.295500,CAMPO LARGO PR
+12,Capanema,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CAPANEMA PR
+13,Carambeí,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CARAMBEI PR
+14,Cascavel,0,2020-03-21,,12.0,,40.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,28.0,2020-03-21 18:49:48.295500,CASCAVEL PR
+15,Cianorte,2,2020-03-21,,1.0,,6.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,3.0,2020-03-21 18:49:48.295500,CIANORTE PR
+16,Clevelândia,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CLEVELANDIA PR
+17,Colombo,0,2020-03-21,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,COLOMBO PR
+18,Conselheiro Mairinck,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CONSELHEIRO MAIRINCK PR
+19,Corbélia,0,2020-03-21,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CORBELIA PR
+20,Cornélio Procópio,0,2020-03-21,,0.0,,5.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,5.0,2020-03-21 18:49:48.295500,CORNELIO PROCOPIO PR
+21,Coronel Domingos Soares,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CORONEL DOMINGOS SOARES PR
+22,Coronel Vivida,0,2020-03-21,,0.0,,3.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,3.0,2020-03-21 18:49:48.295500,CORONEL VIVIDA PR
+23,Curitiba,31,2020-03-21,,88.0,,171.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,52.0,2020-03-21 18:49:48.295500,CURITIBA PR
+24,Faxinal,0,2020-03-21,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,FAXINAL PR
+25,Foz do Iguaçu,1,2020-03-21,,6.0,,38.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,31.0,2020-03-21 18:49:48.295500,FOZ DO IGUACU PR
+26,Francisco Beltrão,0,2020-03-21,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,FRANCISCO BELTRAO PR
+27,Guaíra,1,2020-03-21,,0.0,,5.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,4.0,2020-03-21 18:49:48.295500,GUAIRA PR
+28,Guarapuava,0,2020-03-21,,1.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,GUARAPUAVA PR
+29,Guaratuba,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,GUARATUBA PR
+30,Honório Serpa,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,HONORIO SERPA PR
+31,Ibiporã,0,2020-03-21,,0.0,,8.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,8.0,2020-03-21 18:49:48.295500,IBIPORA PR
+32,Irati,0,2020-03-21,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,IRATI PR
+33,Ivaiporã,0,2020-03-21,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,IVAIPORA PR
+34,Jacarezinho,0,2020-03-21,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,JACAREZINHO PR
+35,Japira,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,JAPIRA PR
+36,Londrina,3,2020-03-21,,12.0,,56.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,41.0,2020-03-21 18:49:48.295500,LONDRINA PR
+37,Mangueirinha,0,2020-03-21,,0.0,,5.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,5.0,2020-03-21 18:49:48.295500,MANGUEIRINHA PR
+38,Marechal Cândido Rondon,0,2020-03-21,,2.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,MARECHAL CANDIDO RONDON PR
+39,Maria Helena,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,MARIA HELENA PR
+40,Maringá,1,2020-03-21,,8.0,,22.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,13.0,2020-03-21 18:49:48.295500,MARINGA PR
+41,Matinhos,0,2020-03-21,,2.0,,3.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,MATINHOS PR
+42,Mercedes,0,2020-03-21,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,MERCEDES PR
+43,Nova Aurora,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,NOVA AURORA PR
+44,Nova Fátima,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,NOVA FATIMA PR
+45,Nova Santa Bárbara,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,NOVA SANTA BARBARA PR
+46,Palotina,0,2020-03-21,,2.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,PALOTINA PR
+47,Paranaguá,0,2020-03-21,,3.0,,4.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,PARANAGUA PR
+48,Paranavaí,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,PARANAVAI PR
+49,Pato Branco,1,2020-03-21,,0.0,,7.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,6.0,2020-03-21 18:49:48.295500,PATO BRANCO PR
+50,Pitangueiras,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,PITANGUEIRAS PR
+51,Ponta Grossa,1,2020-03-21,,16.0,,30.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,13.0,2020-03-21 18:49:48.295500,PONTA GROSSA PR
+52,Porecatu,0,2020-03-21,,1.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,PORECATU PR
+53,Renascença,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,RENASCENCA PR
+54,Santo Antônio do Paraíso,0,2020-03-21,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,SANTO ANTONIO DO PARAISO PR
+55,Santo Antônio do Sudoeste,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,SANTO ANTONIO DO SUDOESTE PR
+56,São João do Caiuá,0,2020-03-21,,2.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,SAO JOAO DO CAIUA PR
+57,São José dos Pinhais,0,2020-03-21,,2.0,,4.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,SAO JOSE DOS PINHAIS PR
+58,Sertanópolis,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,SERTANOPOLIS PR
+59,Telêmaco Borba,0,2020-03-21,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,TELEMACO BORBA PR
+60,Toledo,0,2020-03-21,,0.0,,5.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,5.0,2020-03-21 18:49:48.295500,TOLEDO PR
+61,Tomazina,0,2020-03-21,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,TOMAZINA PR
+62,Turvo,0,2020-03-21,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,TURVO PR
+63,Umuarama,1,2020-03-21,,1.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,UMUARAMA PR
+64,,43,2020-03-21,,172.0,,487.0,state,http://www.saude.pr.gov.br/arquivos/File/CORONA_21032020.pdf,PR,272.0,2020-03-21 18:49:48.295500,
+65,Laranjal do Jarí,0,2020-03-20,,,,,city,https://www.portal.ap.gov.br/noticia/2003/boletim-informativo-covid-19-amapa-20-de-marco-de-2020,AP,2.0,2020-03-21 18:49:48.295500,LARANJAL DO JARI AP
+66,Macapá,1,2020-03-20,,,,,city,https://www.portal.ap.gov.br/noticia/2003/coronavirus-primeiro-caso-e-confirmado-no-amapa,AP,21.0,2020-03-21 18:49:48.295500,MACAPA AP
+67,Pedra Branca do Amapari,0,2020-03-20,,,,,city,https://www.portal.ap.gov.br/noticia/2003/boletim-informativo-covid-19-amapa-20-de-marco-de-2020,AP,1.0,2020-03-21 18:49:48.295500,PEDRA BRANCA DO AMAPARI AP
+68,,1,2020-03-20,,49.0,,,state,https://www.portal.ap.gov.br/noticia/2003/boletim-informativo-covid-19-amapa-20-de-marco-de-2020,AP,24.0,2020-03-21 18:49:48.295500,
+69,Almirante Tamandaré,0,2020-03-20,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,ALMIRANTE TAMANDARE PR
+70,Altônia,0,2020-03-20,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,ALTONIA PR
+71,Alto Paraná,0,2020-03-20,,3.0,,3.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,ALTO PARANA PR
+72,Ampére,0,2020-03-20,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,AMPERE PR
+73,Apucarana,0,2020-03-20,,1.0,,3.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,APUCARANA PR
+74,Arapongas,0,2020-03-20,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,ARAPONGAS PR
+75,Araucária,0,2020-03-20,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,ARAUCARIA PR
+76,Assis Chateaubriand,0,2020-03-20,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,ASSIS CHATEAUBRIAND PR
+77,Cambé,0,2020-03-20,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,CAMBE PR
+78,Campo Largo,1,2020-03-20,,1.0,,7.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,5.0,2020-03-21 18:49:48.295500,CAMPO LARGO PR
+79,Carambeí,0,2020-03-20,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CARAMBEI PR
+80,Cascavel,0,2020-03-20,,7.0,,22.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,15.0,2020-03-21 18:49:48.295500,CASCAVEL PR
+81,Cianorte,2,2020-03-20,,1.0,,6.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,3.0,2020-03-21 18:49:48.295500,CIANORTE PR
+82,Clevelândia,0,2020-03-20,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CLEVELANDIA PR
+83,Colombo,0,2020-03-20,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,COLOMBO PR
+84,Conselheiro Mairinck,0,2020-03-20,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CONSELHEIRO MAIRINCK PR
+85,Corbélia,0,2020-03-20,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CORBELIA PR
+86,Coronel Domingos Soares,0,2020-03-20,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CORONEL DOMINGOS SOARES PR
+87,Curitiba,27,2020-03-20,,71.0,,146.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,50.0,2020-03-21 18:49:48.295500,CURITIBA PR
+88,Faxinal,0,2020-03-20,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,FAXINAL PR
+89,Foz do Iguaçu,1,2020-03-20,,6.0,,37.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,30.0,2020-03-21 18:49:48.295500,FOZ DO IGUACU PR
+90,Guaíra,1,2020-03-20,,0.0,,6.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,5.0,2020-03-21 18:49:48.295500,GUAIRA PR
+91,Guarapuava,0,2020-03-20,,1.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,GUARAPUAVA PR
+92,Guaratuba,0,2020-03-20,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,GUARATUBA PR
+93,Honório Serpa,0,2020-03-20,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,HONORIO SERPA PR
+94,Irati,0,2020-03-20,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,IRATI PR
+95,Ivaiporã,0,2020-03-20,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,IVAIPORA PR
+96,Jacarezinho,0,2020-03-20,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,JACAREZINHO PR
+97,Japira,0,2020-03-20,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,JAPIRA PR
+98,Londrina,3,2020-03-20,,10.0,,23.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,12.0,2020-03-21 18:49:48.295500,LONDRINA PR
+99,Mangueirinha,0,2020-03-20,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,MANGUEIRINHA PR
+100,Marechal Cândido Rondon,0,2020-03-20,,2.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,MARECHAL CANDIDO RONDON PR
+101,Maringá,1,2020-03-20,,8.0,,22.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,13.0,2020-03-21 18:49:48.295500,MARINGA PR
+102,Matinhos,0,2020-03-20,,2.0,,3.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,MATINHOS PR
+103,Mercedes,0,2020-03-20,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,MERCEDES PR
+104,Palotina,0,2020-03-20,,2.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,PALOTINA PR
+105,Paranaguá,0,2020-03-20,,1.0,,4.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,3.0,2020-03-21 18:49:48.295500,PARANAGUA PR
+106,Paranavaí,0,2020-03-20,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,PARANAVAI PR
+107,Pato Branco,0,2020-03-20,,0.0,,5.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,5.0,2020-03-21 18:49:48.295500,PATO BRANCO PR
+108,Ponta Grossa,0,2020-03-20,,11.0,,30.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,19.0,2020-03-21 18:49:48.295500,PONTA GROSSA PR
+109,Porecatu,0,2020-03-20,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,PORECATU PR
+110,Renascença,0,2020-03-20,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,RENASCENCA PR
+111,Santo Antônio do Paraíso,0,2020-03-20,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,SANTO ANTONIO DO PARAISO PR
+112,São João do Caiuá,0,2020-03-20,,2.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,SAO JOAO DO CAIUA PR
+113,São José dos Pinhais,0,2020-03-20,,2.0,,4.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,SAO JOSE DOS PINHAIS PR
+114,Toledo,0,2020-03-20,,0.0,,5.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,5.0,2020-03-21 18:49:48.295500,TOLEDO PR
+115,Tomazina,0,2020-03-20,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,TOMAZINA PR
+116,Turvo,0,2020-03-20,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,TURVO PR
+117,Umuarama,0,2020-03-20,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,UMUARAMA PR
+118,,36,2020-03-20,,137.0,,371.0,state,http://www.saude.pr.gov.br/arquivos/File/CORONA_20032020.pdf,PR,202.0,2020-03-21 18:49:48.295500,
+119,Laranjal do Jarí,0,2020-03-19,,,,,city,https://www.portal.ap.gov.br/noticia/1903/boletim-informativo-covid-19-amapa-19-de-marco-de-2020,AP,1.0,2020-03-21 18:49:48.295500,LARANJAL DO JARI AP
+120,Macapá,0,2020-03-19,,,,,city,https://www.portal.ap.gov.br/noticia/1903/boletim-informativo-covid-19-amapa-19-de-marco-de-2020,AP,64.0,2020-03-21 18:49:48.295500,MACAPA AP
+121,Pedra Branca do Amapari,0,2020-03-19,,,,,city,https://www.portal.ap.gov.br/noticia/1903/boletim-informativo-covid-19-amapa-19-de-marco-de-2020,AP,1.0,2020-03-21 18:49:48.295500,PEDRA BRANCA DO AMAPARI AP
+122,,0,2020-03-19,,,,,state,https://www.portal.ap.gov.br/noticia/1903/boletim-informativo-covid-19-amapa-19-de-marco-de-2020,AP,66.0,2020-03-21 18:49:48.295500,
+123,Almirante Tamandaré,0,2020-03-19,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,ALMIRANTE TAMANDARE PR
+124,Altônia,0,2020-03-19,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,ALTONIA PR
+125,Alto Paraná,0,2020-03-19,,3.0,,3.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,ALTO PARANA PR
+126,Ampére,0,2020-03-19,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,AMPERE PR
+127,Apucarana,0,2020-03-19,,1.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,APUCARANA PR
+128,Arapongas,0,2020-03-19,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,ARAPONGAS PR
+129,Araucária,0,2020-03-19,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,ARAUCARIA PR
+130,Cambé,0,2020-03-19,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CAMBE PR
+131,Campo Largo,1,2020-03-19,,1.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CAMPO LARGO PR
+132,Carambeí,0,2020-03-19,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CARAMBEI PR
+133,Cascavel,0,2020-03-19,,7.0,,21.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,14.0,2020-03-21 18:49:48.295500,CASCAVEL PR
+134,Cianorte,2,2020-03-19,,1.0,,4.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CIANORTE PR
+135,Corbélia,0,2020-03-19,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CORBELIA PR
+136,Curitiba,17,2020-03-19,,64.0,,135.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,54.0,2020-03-21 18:49:48.295500,CURITIBA PR
+137,Faxinal,0,2020-03-19,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,FAXINAL PR
+138,Foz do Iguaçu,1,2020-03-19,,6.0,,16.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,9.0,2020-03-21 18:49:48.295500,FOZ DO IGUACU PR
+139,Guaíra,0,2020-03-19,,0.0,,4.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,4.0,2020-03-21 18:49:48.295500,GUAIRA PR
+140,Guarapuava,0,2020-03-19,,1.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,GUARAPUAVA PR
+141,Guaratuba,0,2020-03-19,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,GUARATUBA PR
+142,Irati,0,2020-03-19,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,IRATI PR
+143,Londrina,1,2020-03-19,,9.0,,21.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,11.0,2020-03-21 18:49:48.295500,LONDRINA PR
+144,Marechal Cândido Rondon,0,2020-03-19,,1.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,MARECHAL CANDIDO RONDON PR
+145,Maringá,1,2020-03-19,,6.0,,19.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,12.0,2020-03-21 18:49:48.295500,MARINGA PR
+146,Matinhos,0,2020-03-19,,2.0,,3.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,MATINHOS PR
+147,Mercedes,0,2020-03-19,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,MERCEDES PR
+148,Palotina,0,2020-03-19,,2.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,PALOTINA PR
+149,Paranaguá,0,2020-03-19,,1.0,,3.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,PARANAGUA PR
+150,Paranavaí,0,2020-03-19,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,PARANAVAI PR
+151,Ponta Grossa,0,2020-03-19,,8.0,,27.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,19.0,2020-03-21 18:49:48.295500,PONTA GROSSA PR
+152,Porecatu,0,2020-03-19,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,PORECATU PR
+153,Renascença,0,2020-03-19,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,RENASCENCA PR
+154,Santo Antônio do Paraíso,0,2020-03-19,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,SANTO ANTONIO DO PARAISO PR
+155,São João do Caiuá,0,2020-03-19,,2.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,SAO JOAO DO CAIUA PR
+156,São José dos Pinhais,0,2020-03-19,,2.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,SAO JOSE DOS PINHAIS PR
+157,Toledo,0,2020-03-19,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,TOLEDO PR
+158,Turvo,0,2020-03-19,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,TURVO PR
+159,Umuarama,0,2020-03-19,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,UMUARAMA PR
+160,,23,2020-03-19,,122.0,,291.0,state,http://www.saude.pr.gov.br/arquivos/File/CORONA_19032020.pdf,PR,146.0,2020-03-21 18:49:48.295500,
+161,Macapá,0,2020-03-18,,,,,city,https://www.portal.ap.gov.br/noticia/1803/boletim-informativo-covid-19-amapa-18-de-marco-de-2020,AP,42.0,2020-03-21 18:49:48.295500,MACAPA AP
+162,,0,2020-03-18,,,,,state,https://www.portal.ap.gov.br/noticia/1803/boletim-informativo-covid-19-amapa-18-de-marco-de-2020,AP,50.0,2020-03-21 18:49:48.295500,
+163,Belo Horizonte,10,2020-03-18,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12307-informe-epidemiologico-coronavirus-18-03-2020,MG,,2020-03-21 18:49:48.295500,BELO HORIZONTE MG
+164,Coronel Fabriciano,1,2020-03-18,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12307-informe-epidemiologico-coronavirus-18-03-2020,MG,,2020-03-21 18:49:48.295500,CORONEL FABRICIANO MG
+165,Divinópolis,1,2020-03-18,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12307-informe-epidemiologico-coronavirus-18-03-2020,MG,,2020-03-21 18:49:48.295500,DIVINOPOLIS MG
+166,Ipatinga,1,2020-03-18,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12307-informe-epidemiologico-coronavirus-18-03-2020,MG,,2020-03-21 18:49:48.295500,IPATINGA MG
+167,Juiz de Fora,2,2020-03-18,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12307-informe-epidemiologico-coronavirus-18-03-2020,MG,,2020-03-21 18:49:48.295500,JUIZ DE FORA MG
+168,Nova Lima,1,2020-03-18,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12307-informe-epidemiologico-coronavirus-18-03-2020,MG,,2020-03-21 18:49:48.295500,NOVA LIMA MG
+169,Patrocínio,1,2020-03-18,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12307-informe-epidemiologico-coronavirus-18-03-2020,MG,,2020-03-21 18:49:48.295500,PATROCINIO MG
+170,Sete Lagoas,1,2020-03-18,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12307-informe-epidemiologico-coronavirus-18-03-2020,MG,,2020-03-21 18:49:48.295500,SETE LAGOAS MG
+171,Uberlândia,1,2020-03-18,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12307-informe-epidemiologico-coronavirus-18-03-2020,MG,,2020-03-21 18:49:48.295500,UBERLANDIA MG
+172,,19,2020-03-18,0.0,88.0,,810.0,state,https://www.saude.mg.gov.br/component/gmg/story/12307-informe-epidemiologico-coronavirus-18-03-2020,MG,,2020-03-21 18:49:48.295500,
+173,Almirante Tamandaré,0,2020-03-18,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,ALMIRANTE TAMANDARE PR
+174,Altônia,0,2020-03-18,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,ALTONIA PR
+175,Alto Paraná,0,2020-03-18,,3.0,,3.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,ALTO PARANA PR
+176,Ampére,0,2020-03-18,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,AMPERE PR
+177,Apucarana,0,2020-03-18,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,APUCARANA PR
+178,Araucária,0,2020-03-18,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,ARAUCARIA PR
+179,Cambé,0,2020-03-18,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CAMBE PR
+180,Campo Largo,1,2020-03-18,,1.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CAMPO LARGO PR
+181,Carambeí,0,2020-03-18,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CARAMBEI PR
+182,Cascavel,0,2020-03-18,,7.0,,7.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CASCAVEL PR
+183,Cianorte,2,2020-03-18,,1.0,,4.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CIANORTE PR
+184,Corbélia,0,2020-03-18,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CORBELIA PR
+185,Curitiba,8,2020-03-18,,62.0,,84.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,14.0,2020-03-21 18:49:48.295500,CURITIBA PR
+186,Foz do Iguaçu,1,2020-03-18,,6.0,,7.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,FOZ DO IGUACU PR
+187,Guaíra,0,2020-03-18,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,GUAIRA PR
+188,Guarapuava,0,2020-03-18,,1.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,GUARAPUAVA PR
+189,Irati,0,2020-03-18,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,IRATI PR
+190,Londrina,1,2020-03-18,,9.0,,19.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,9.0,2020-03-21 18:49:48.295500,LONDRINA PR
+191,Marechal Cândido Rondon,0,2020-03-18,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,MARECHAL CANDIDO RONDON PR
+192,Maringá,1,2020-03-18,,6.0,,19.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,12.0,2020-03-21 18:49:48.295500,MARINGA PR
+193,Matinhos,0,2020-03-18,,2.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,MATINHOS PR
+194,Mercedes,0,2020-03-18,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,MERCEDES PR
+195,Palotina,0,2020-03-18,,2.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,PALOTINA PR
+196,Paranavaí,0,2020-03-18,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,PARANAVAI PR
+197,Ponta Grossa,0,2020-03-18,,8.0,,27.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,19.0,2020-03-21 18:49:48.295500,PONTA GROSSA PR
+198,Porecatu,0,2020-03-18,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,PORECATU PR
+199,Santo Antônio do Paraíso,0,2020-03-18,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,SANTO ANTONIO DO PARAISO PR
+200,São João do Caiuá,0,2020-03-18,,2.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,SAO JOAO DO CAIUA PR
+201,São José dos Pinhais,0,2020-03-18,,2.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,SAO JOSE DOS PINHAIS PR
+202,Turvo,0,2020-03-18,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,TURVO PR
+203,Umuarama,0,2020-03-18,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,UMUARAMA PR
+204,,14,2020-03-18,,119.0,,200.0,state,http://www.saude.pr.gov.br/arquivos/File/CORONA_18032020.pdf,PR,67.0,2020-03-21 18:49:48.295500,
+205,Macapá,0,2020-03-17,,,,,city,https://www.portal.ap.gov.br/noticia/1703/boletim-informativo-covid-19-amapa-17-de-marco-de-2020,AP,8.0,2020-03-21 18:49:48.295500,MACAPA AP
+206,,0,2020-03-17,,,,,state,https://www.portal.ap.gov.br/noticia/1703/boletim-informativo-covid-19-amapa-17-de-marco-de-2020,AP,8.0,2020-03-21 18:49:48.295500,
+207,Belo Horizonte,5,2020-03-17,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12298-informe-epidemiologico-coronavirus-06-03-2020,MG,,2020-03-21 18:49:48.295500,BELO HORIZONTE MG
+208,Coronel Fabriciano,1,2020-03-17,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12298-informe-epidemiologico-coronavirus-06-03-2020,MG,,2020-03-21 18:49:48.295500,CORONEL FABRICIANO MG
+209,Divinópolis,1,2020-03-17,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12298-informe-epidemiologico-coronavirus-06-03-2020,MG,,2020-03-21 18:49:48.295500,DIVINOPOLIS MG
+210,Ipatinga,1,2020-03-17,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12298-informe-epidemiologico-coronavirus-06-03-2020,MG,,2020-03-21 18:49:48.295500,IPATINGA MG
+211,Juiz de Fora,2,2020-03-17,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12298-informe-epidemiologico-coronavirus-06-03-2020,MG,,2020-03-21 18:49:48.295500,JUIZ DE FORA MG
+212,Nova Lima,1,2020-03-17,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12298-informe-epidemiologico-coronavirus-06-03-2020,MG,,2020-03-21 18:49:48.295500,NOVA LIMA MG
+213,Patrocínio,1,2020-03-17,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12298-informe-epidemiologico-coronavirus-06-03-2020,MG,,2020-03-21 18:49:48.295500,PATROCINIO MG
+214,Sete Lagoas,1,2020-03-17,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12298-informe-epidemiologico-coronavirus-06-03-2020,MG,,2020-03-21 18:49:48.295500,SETE LAGOAS MG
+215,Uberlândia,1,2020-03-17,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12298-informe-epidemiologico-coronavirus-06-03-2020,MG,,2020-03-21 18:49:48.295500,UBERLANDIA MG
+216,,14,2020-03-17,0.0,88.0,,794.0,state,https://www.saude.mg.gov.br/component/gmg/story/12298-informe-epidemiologico-coronavirus-06-03-2020,MG,,2020-03-21 18:49:48.295500,
+217,Almirante Tamandaré,0,2020-03-17,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,ALMIRANTE TAMANDARE PR
+218,Alto Paraná,0,2020-03-17,,0.0,,3.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,3.0,2020-03-21 18:49:48.295500,ALTO PARANA PR
+219,Apucarana,0,2020-03-17,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,APUCARANA PR
+220,Araucária,0,2020-03-17,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,ARAUCARIA PR
+221,Cambé,0,2020-03-17,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CAMBE PR
+222,Campo Largo,1,2020-03-17,,1.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CAMPO LARGO PR
+223,Carambeí,0,2020-03-17,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CARAMBEI PR
+224,Cascavel,0,2020-03-17,,4.0,,7.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,3.0,2020-03-21 18:49:48.295500,CASCAVEL PR
+225,Cianorte,2,2020-03-17,,1.0,,4.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CIANORTE PR
+226,Corbélia,0,2020-03-17,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CORBELIA PR
+227,Curitiba,7,2020-03-17,,44.0,,82.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,31.0,2020-03-21 18:49:48.295500,CURITIBA PR
+228,Foz do Iguaçu,0,2020-03-17,,6.0,,7.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,FOZ DO IGUACU PR
+229,Guaíra,0,2020-03-17,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,GUAIRA PR
+230,Guarapuava,0,2020-03-17,,1.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,GUARAPUAVA PR
+231,Londrina,1,2020-03-17,,7.0,,19.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,11.0,2020-03-21 18:49:48.295500,LONDRINA PR
+232,Marechal Cândido Rondon,0,2020-03-17,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,MARECHAL CANDIDO RONDON PR
+233,Maringá,0,2020-03-17,,6.0,,11.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,5.0,2020-03-21 18:49:48.295500,MARINGA PR
+234,Matinhos,0,2020-03-17,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,MATINHOS PR
+235,Mercedes,0,2020-03-17,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,MERCEDES PR
+236,Palotina,0,2020-03-17,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,PALOTINA PR
+237,Pinhais,1,2020-03-17,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,PINHAIS PR
+238,Ponta Grossa,0,2020-03-17,,7.0,,19.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,12.0,2020-03-21 18:49:48.295500,PONTA GROSSA PR
+239,Porecatu,0,2020-03-17,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,PORECATU PR
+240,Santo Antônio do Paraíso,0,2020-03-17,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,SANTO ANTONIO DO PARAISO PR
+241,São João do Caiuá,0,2020-03-17,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,SAO JOAO DO CAIUA PR
+242,São José dos Pinhais,0,2020-03-17,,2.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,SAO JOSE DOS PINHAIS PR
+243,Turvo,0,2020-03-17,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,TURVO PR
+244,Umuarama,0,2020-03-17,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,UMUARAMA PR
+245,,12,2020-03-17,,82.0,,179.0,state,http://www.saude.pr.gov.br/arquivos/File/CORONA_17032020.pdf,PR,85.0,2020-03-21 18:49:48.295500,
+246,Macapá,0,2020-03-16,,,,,city,https://www.portal.ap.gov.br/noticia/1603/boletim-informativo-covid-19-amapa-16-de-marco-de-2020,AP,6.0,2020-03-21 18:49:48.295500,MACAPA AP
+247,,0,2020-03-16,,,,,state,https://www.portal.ap.gov.br/noticia/1603/boletim-informativo-covid-19-amapa-16-de-marco-de-2020,AP,6.0,2020-03-21 18:49:48.295500,
+248,Belo Horizonte,1,2020-03-16,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12286-informe-epidemiologico-coronavirus-16-03-2020,MG,,2020-03-21 18:49:48.295500,BELO HORIZONTE MG
+249,Divinópolis,1,2020-03-16,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12286-informe-epidemiologico-coronavirus-16-03-2020,MG,,2020-03-21 18:49:48.295500,DIVINOPOLIS MG
+250,Ipatinga,1,2020-03-16,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12286-informe-epidemiologico-coronavirus-16-03-2020,MG,,2020-03-21 18:49:48.295500,IPATINGA MG
+251,Juiz de Fora,2,2020-03-16,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12286-informe-epidemiologico-coronavirus-16-03-2020,MG,,2020-03-21 18:49:48.295500,JUIZ DE FORA MG
+252,Patrocínio,1,2020-03-16,,,,,city,https://www.saude.mg.gov.br/component/gmg/story/12286-informe-epidemiologico-coronavirus-16-03-2020,MG,,2020-03-21 18:49:48.295500,PATROCINIO MG
+253,,6,2020-03-16,0.0,85.0,,511.0,state,https://www.saude.mg.gov.br/component/gmg/story/12286-informe-epidemiologico-coronavirus-16-03-2020,MG,,2020-03-21 18:49:48.295500,
+254,Almirante Tamandaré,0,2020-03-16,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,ALMIRANTE TAMANDARE PR
+255,Alto Paraná,0,2020-03-16,,0.0,,3.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,3.0,2020-03-21 18:49:48.295500,ALTO PARANA PR
+256,Apucarana,0,2020-03-16,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,APUCARANA PR
+257,Araucária,0,2020-03-16,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,ARAUCARIA PR
+258,Cambé,0,2020-03-16,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CAMBE PR
+259,Campo Largo,0,2020-03-16,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CAMPO LARGO PR
+260,Carambeí,0,2020-03-16,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CARAMBEI PR
+261,Cascavel,0,2020-03-16,,4.0,,7.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,3.0,2020-03-21 18:49:48.295500,CASCAVEL PR
+262,Cianorte,1,2020-03-16,,1.0,,3.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CIANORTE PR
+263,Corbélia,0,2020-03-16,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CORBELIA PR
+264,Curitiba,5,2020-03-16,,44.0,,80.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,31.0,2020-03-21 18:49:48.295500,CURITIBA PR
+265,Foz do Iguaçu,0,2020-03-16,,6.0,,7.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,FOZ DO IGUACU PR
+266,Guaíra,0,2020-03-16,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,GUAIRA PR
+267,Guarapuava,0,2020-03-16,,1.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,GUARAPUAVA PR
+268,Londrina,0,2020-03-16,,7.0,,18.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,11.0,2020-03-21 18:49:48.295500,LONDRINA PR
+269,Marechal Cândido Rondon,0,2020-03-16,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,MARECHAL CANDIDO RONDON PR
+270,Maringá,0,2020-03-16,,6.0,,11.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,5.0,2020-03-21 18:49:48.295500,MARINGA PR
+271,Matinhos,0,2020-03-16,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,MATINHOS PR
+272,Mercedes,0,2020-03-16,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,MERCEDES PR
+273,Palotina,0,2020-03-16,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,PALOTINA PR
+274,Ponta Grossa,0,2020-03-16,,7.0,,19.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,12.0,2020-03-21 18:49:48.295500,PONTA GROSSA PR
+275,Porecatu,0,2020-03-16,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,PORECATU PR
+276,Santo Antônio do Paraíso,0,2020-03-16,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,SANTO ANTONIO DO PARAISO PR
+277,São João do Caiuá,0,2020-03-16,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,SAO JOAO DO CAIUA PR
+278,São José dos Pinhais,0,2020-03-16,,2.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,SAO JOSE DOS PINHAIS PR
+279,Turvo,0,2020-03-16,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,TURVO PR
+280,Umuarama,0,2020-03-16,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,UMUARAMA PR
+281,,6,2020-03-16,,82.0,,173.0,state,http://www.saude.pr.gov.br/arquivos/File/CORONA_16032020.pdf,PR,85.0,2020-03-21 18:49:48.295500,
+282,,4,2020-03-14,0.0,85.0,,386.0,state,https://www.saude.mg.gov.br/component/gmg/story/12280-informe-epidemiologico-coronavirus-14-03-2020,MG,,2020-03-21 18:49:48.295500,
+283,,2,2020-03-13,0.0,69.0,,378.0,state,https://www.saude.mg.gov.br/component/gmg/story/12276-informe-epidemiologico-coronavirus-13-03-2020,MG,,2020-03-21 18:49:48.295500,
+284,Apucarana,0,2020-03-13,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_13032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,APUCARANA PR
+285,Campo Largo,0,2020-03-13,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_13032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CAMPO LARGO PR
+286,Cascavel,0,2020-03-13,,2.0,,7.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_13032020.pdf,PR,5.0,2020-03-21 18:49:48.295500,CASCAVEL PR
+287,Cianorte,1,2020-03-13,,0.0,,3.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_13032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,CIANORTE PR
+288,Corbélia,0,2020-03-13,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_13032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CORBELIA PR
+289,Curitiba,5,2020-03-13,,20.0,,56.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_13032020.pdf,PR,31.0,2020-03-21 18:49:48.295500,CURITIBA PR
+290,Foz do Iguaçu,0,2020-03-13,,2.0,,7.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_13032020.pdf,PR,5.0,2020-03-21 18:49:48.295500,FOZ DO IGUACU PR
+291,Guarapuava,0,2020-03-13,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_13032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,GUARAPUAVA PR
+292,Londrina,0,2020-03-13,,3.0,,12.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_13032020.pdf,PR,9.0,2020-03-21 18:49:48.295500,LONDRINA PR
+293,Maringá,0,2020-03-13,,2.0,,8.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_13032020.pdf,PR,6.0,2020-03-21 18:49:48.295500,MARINGA PR
+294,Ponta Grossa,0,2020-03-13,,2.0,,10.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_13032020.pdf,PR,8.0,2020-03-21 18:49:48.295500,PONTA GROSSA PR
+295,Santo Antônio do Paraíso,0,2020-03-13,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_13032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,SANTO ANTONIO DO PARAISO PR
+296,São José dos Pinhais,0,2020-03-13,,1.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_13032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,SAO JOSE DOS PINHAIS PR
+297,Turvo,0,2020-03-13,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_13032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,TURVO PR
+298,Umuarama,0,2020-03-13,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_13032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,UMUARAMA PR
+299,,6,2020-03-13,,34.0,,112.0,state,http://www.saude.pr.gov.br/arquivos/File/CORONA_13032020.pdf,PR,72.0,2020-03-21 18:49:48.295500,
+300,,2,2020-03-12,0.0,22.0,,313.0,state,https://www.saude.mg.gov.br/component/gmg/story/12267-informe-epidemiologico-coronavirus-12-03-2020,MG,,2020-03-21 18:49:48.295500,
+301,Apucarana,0,2020-03-12,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_12032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,APUCARANA PR
+302,Campo Largo,0,2020-03-12,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_12032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CAMPO LARGO PR
+303,Cascavel,0,2020-03-12,,2.0,,4.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_12032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,CASCAVEL PR
+304,Cianorte,1,2020-03-12,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_12032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CIANORTE PR
+305,Corbélia,0,2020-03-12,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_12032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CORBELIA PR
+306,Curitiba,5,2020-03-12,,15.0,,48.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_12032020.pdf,PR,28.0,2020-03-21 18:49:48.295500,CURITIBA PR
+307,Foz do Iguaçu,0,2020-03-12,,2.0,,6.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_12032020.pdf,PR,4.0,2020-03-21 18:49:48.295500,FOZ DO IGUACU PR
+308,Guarapuava,0,2020-03-12,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_12032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,GUARAPUAVA PR
+309,Londrina,0,2020-03-12,,3.0,,9.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_12032020.pdf,PR,6.0,2020-03-21 18:49:48.295500,LONDRINA PR
+310,Maringá,0,2020-03-12,,2.0,,6.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_12032020.pdf,PR,4.0,2020-03-21 18:49:48.295500,MARINGA PR
+311,Ponta Grossa,0,2020-03-12,,2.0,,7.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_12032020.pdf,PR,5.0,2020-03-21 18:49:48.295500,PONTA GROSSA PR
+312,Santo Antônio do Paraíso,0,2020-03-12,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_12032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,SANTO ANTONIO DO PARAISO PR
+313,São José dos Pinhais,0,2020-03-12,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_12032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,SAO JOSE DOS PINHAIS PR
+314,Turvo,0,2020-03-12,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_12032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,TURVO PR
+315,,6,2020-03-12,,29.0,,89.0,state,http://www.saude.pr.gov.br/arquivos/File/CORONA_12032020.pdf,PR,54.0,2020-03-21 18:49:48.295500,
+316,,1,2020-03-11,0.0,18.0,,279.0,state,https://www.saude.mg.gov.br/component/gmg/story/12261-informe-epidemiologico-coronavirus-11-03-2020,MG,,2020-03-21 18:49:48.295500,
+317,Campo Largo,0,2020-03-11,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_11032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CAMPO LARGO PR
+318,Cascavel,0,2020-03-11,,2.0,,4.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_11032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,CASCAVEL PR
+319,Cianorte,0,2020-03-11,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_11032020.pdf,PR,2.0,2020-03-21 18:49:48.295500,CIANORTE PR
+320,Corbélia,0,2020-03-11,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_11032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,CORBELIA PR
+321,Curitiba,0,2020-03-11,,14.0,,40.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_11032020.pdf,PR,26.0,2020-03-21 18:49:48.295500,CURITIBA PR
+322,Foz do Iguaçu,0,2020-03-11,,2.0,,6.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_11032020.pdf,PR,4.0,2020-03-21 18:49:48.295500,FOZ DO IGUACU PR
+323,Guarapuava,0,2020-03-11,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_11032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,GUARAPUAVA PR
+324,Londrina,0,2020-03-11,,3.0,,6.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_11032020.pdf,PR,3.0,2020-03-21 18:49:48.295500,LONDRINA PR
+325,Maringá,0,2020-03-11,,2.0,,6.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_11032020.pdf,PR,4.0,2020-03-21 18:49:48.295500,MARINGA PR
+326,Ponta Grossa,0,2020-03-11,,2.0,,7.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_11032020.pdf,PR,5.0,2020-03-21 18:49:48.295500,PONTA GROSSA PR
+327,Santo Antônio do Paraíso,0,2020-03-11,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_11032020.pdf,PR,1.0,2020-03-21 18:49:48.295500,SANTO ANTONIO DO PARAISO PR
+328,São José dos Pinhais,0,2020-03-11,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_11032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,SAO JOSE DOS PINHAIS PR
+329,,0,2020-03-11,,27.0,,76.0,state,http://www.saude.pr.gov.br/arquivos/File/CORONA_11032020.pdf,PR,49.0,2020-03-21 18:49:48.295500,
+330,,1,2020-03-10,0.0,29.0,,243.0,state,https://www.saude.mg.gov.br/component/gmg/story/12255-informe-epidemiologico-coronavirus-10-03-2020,MG,,2020-03-21 18:49:48.295500,
+331,Campo Largo,0,2020-03-10,,1.0,,0.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_10032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CAMPO LARGO PR
+332,Cascavel,0,2020-03-10,,0.0,,0.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_10032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CASCAVEL PR
+333,Cianorte,0,2020-03-10,,0.0,,0.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_10032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CIANORTE PR
+334,Corbélia,0,2020-03-10,,0.0,,0.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_10032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CORBELIA PR
+335,Curitiba,0,2020-03-10,,11.0,,0.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_10032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,CURITIBA PR
+336,Foz do Iguaçu,0,2020-03-10,,2.0,,0.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_10032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,FOZ DO IGUACU PR
+337,Londrina,0,2020-03-10,,1.0,,0.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_10032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,LONDRINA PR
+338,Maringá,0,2020-03-10,,2.0,,0.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_10032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,MARINGA PR
+339,Ponta Grossa,0,2020-03-10,,2.0,,0.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_10032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,PONTA GROSSA PR
+340,Santo Antônio do Paraíso,0,2020-03-10,,0.0,,0.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_10032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,SANTO ANTONIO DO PARAISO PR
+341,São José dos Pinhais,0,2020-03-10,,1.0,,0.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_10032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,SAO JOSE DOS PINHAIS PR
+342,,0,2020-03-10,,20.0,,0.0,state,http://www.saude.pr.gov.br/arquivos/File/CORONA_10032020.pdf,PR,0.0,2020-03-21 18:49:48.295500,
+343,,1,2020-03-09,0.0,28.0,,190.0,state,https://www.saude.mg.gov.br/component/gmg/story/12247-informe-epidemiologico-coronavirus-09-03-2020,MG,,2020-03-21 18:49:48.295500,
+344,Campo Largo,0,2020-03-09,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_09032020_2.pdf,PR,0.0,2020-03-21 18:49:48.295500,CAMPO LARGO PR
+345,Cascavel,0,2020-03-09,,0.0,,2.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_09032020_2.pdf,PR,2.0,2020-03-21 18:49:48.295500,CASCAVEL PR
+346,Curitiba,0,2020-03-09,,11.0,,30.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_09032020_2.pdf,PR,19.0,2020-03-21 18:49:48.295500,CURITIBA PR
+347,Foz do Iguaçu,0,2020-03-09,,2.0,,3.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_09032020_2.pdf,PR,1.0,2020-03-21 18:49:48.295500,FOZ DO IGUACU PR
+348,Londrina,0,2020-03-09,,1.0,,6.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_09032020_2.pdf,PR,5.0,2020-03-21 18:49:48.295500,LONDRINA PR
+349,Maringá,0,2020-03-09,,2.0,,3.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_09032020_2.pdf,PR,1.0,2020-03-21 18:49:48.295500,MARINGA PR
+350,Ponta Grossa,0,2020-03-09,,2.0,,6.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_09032020_2.pdf,PR,4.0,2020-03-21 18:49:48.295500,PONTA GROSSA PR
+351,Santo Antônio do Paraíso,0,2020-03-09,,0.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_09032020_2.pdf,PR,1.0,2020-03-21 18:49:48.295500,SANTO ANTONIO DO PARAISO PR
+352,São José dos Pinhais,0,2020-03-09,,1.0,,1.0,city,http://www.saude.pr.gov.br/arquivos/File/CORONA_09032020_2.pdf,PR,0.0,2020-03-21 18:49:48.295500,SAO JOSE DOS PINHAIS PR
+353,,0,2020-03-09,,20.0,,53.0,state,http://www.saude.pr.gov.br/arquivos/File/CORONA_09032020_2.pdf,PR,33.0,2020-03-21 18:49:48.295500,
+354,,1,2020-03-08,0.0,17.0,"Dados notificados, descartados e mortes repetidos de 06/03 (não contém todos os dados de 08/03 na notícia)",140.0,state,https://www.saude.mg.gov.br/component/gmg/story/12233-confirmacao-do-primeiro-caso-de-coronavirus-covid-19-em-minas-gerais,MG,,2020-03-21 18:49:48.295500,
+355,,0,2020-03-06,0.0,17.0,,140.0,state,https://www.saude.mg.gov.br/component/gmg/story/12232-informe-epidemiologico-coronavirus-06-03-2020,MG,,2020-03-21 18:49:48.295500,
