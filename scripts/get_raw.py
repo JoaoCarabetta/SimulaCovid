@@ -21,16 +21,10 @@ def get_cases():
 
     # Get current date & time
     today = str(dt.today())
-    today = today[:19].replace(' ', '_').replace(':', '')
-
-    # Check for outdated dataset
-    df_old = sorted(RAW_PATH.glob('*_covid19_cases.csv'))
-
-    if df_old:
-        df_old[0].unlink()
+    df['last_update'] = today
 
     # Save/update raw dataset
-    df.to_csv(RAW_PATH / '{}_covid19_cases.csv'.format(today))
+    df.to_csv(RAW_PATH / 'covid19_cases.csv')
     
     return df
 
