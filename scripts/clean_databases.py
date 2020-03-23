@@ -21,7 +21,7 @@ def treat(df, filename):
     
     # Add city + state column to cross
     df['municipio'] = df['municipio'].fillna('')
-    df['municipio_uf'] = df.apply(lambda row: join_city_state(row['municipio'], row['uf']), axis=1)
+    df['region_id'] = df.apply(lambda row: join_city_state(row['municipio'], row['uf']), axis=1)
     
     # Save clened database
     treat_name = 'treated_'+filename

@@ -1,4 +1,4 @@
-,id_6char,id_7char,municipio_sus,municipio,uf,populacao,clinicos,intensivistas,enfermeiros,anestesiologistas,ventiladores_existentes,ventiladores_em_uso,estab_c_vent_sus,quantidade_leitos,leitos_sus,leitos_nao_sus,municipio_uf
+,id_6char,id_7char,municipio_sus,municipio,uf,populacao,clinicos,intensivistas,enfermeiros,anestesiologistas,ventiladores_existentes,ventiladores_em_uso,estab_c_vent_sus,quantidade_leitos,leitos_sus,leitos_nao_sus,region_id
 0,110001,1100015, Alta Floresta D'Oeste,Alta Floresta D'Oeste,RO,22945,9.0,,16.0,,,,,49.0,43.0,6.0,ALTA FLORESTA D'OESTE RO
 1,110002,1100023, Ariquemes,Ariquemes,RO,107863,68.0,1.0,73.0,5.0,49.0,49.0,7.0,240.0,135.0,105.0,ARIQUEMES RO
 2,110003,1100031, Cabixi,Cabixi,RO,5312,4.0,,5.0,,,,,9.0,9.0,,CABIXI RO
