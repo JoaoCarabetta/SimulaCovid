@@ -1,7 +1,7 @@
 import pandas as pd
 from paths import RAW_PATH, TREAT_PATH
 from datetime import datetime as dt
-from unidecode import unidecode
+# from unidecode import unidecode
 import numpy as np
 
 def normalize_cols(df):
@@ -85,7 +85,7 @@ def treat_sus(filepath, to_path):
     # Add available respirator column
     df['ventiladores_disponiveis'] = df['ventiladores_existentes'] - df['ventiladores_em_uso'] 
     
-    cols = ['region_id', 'municipio', 'uf', 'populacao', 'quantidade_leitos', 'ventiladores_disponiveis']
+    cols = ['region_id', 'municipio', 'uf', 'populacao', 'quantidade_leitos', 'ventiladores_existentes']
     df = df[cols].fillna(0)
 
     # remove apostoflo

@@ -28,7 +28,7 @@ def entrypoint(current_state, model_parameters):
 
     result = odeint(SIR, **args)
     
-    result = pd.DataFrame(result, columns=['S', 'R', 'I'])
+    result = pd.DataFrame(result, columns=['S', 'I', 'R'])
     
     result['days'] = args['t']
     result['I2'] = result['I'] * model_parameters['i2_percentage'] / 100 # severe cases
