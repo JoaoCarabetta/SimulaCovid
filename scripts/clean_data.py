@@ -82,7 +82,10 @@ def treat_sus(filepath, to_path):
     df['region_id'] = df.apply(lambda row: create_region_id(row['municipio'], row['uf']), axis=1)
     df['region_id'] = normalize_cols(df['region_id']) 
     
-    cols = ['region_id', 'municipio', 'uf', 'populacao', 'quantidade_leitos']
+    # Add available respirator column
+    df['ventiladores_disponiveis'] = df['ventiladores_existentes'] - df['ventiladores_em_uso'] 
+    
+    cols = ['region_id', 'municipio', 'uf', 'populacao', 'quantidade_leitos', 'ventiladores_disponiveis']
     df = df[cols].fillna(0)
 
     # remove apostoflo
