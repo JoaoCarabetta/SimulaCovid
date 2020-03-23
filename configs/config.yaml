@@ -1,5 +1,15 @@
-data_paths:
-    cases: https://raw.githubusercontent.com/wcota/covid19br/master/cases-brazil-cities-time.csv
+get_data_paths:
+    cases_covid19br: https://raw.githubusercontent.com/wcota/covid19br/master/cases-brazil-cities-time.csv
+    cases_brasilio: https://brasil.io/api/dataset/covid19/caso/data?format=json
+  
+raw_paths:
+    cases_covid19br: city_cases_covid19br.csv
+    cases_brasilio: city_cases_brasilio.csv
+    sus: covid19_SUS_database.csv
+    
+treated_paths:
+    cases_covid19br: last_cases_covid19br.csv
+    cases_brasilio: last_cases_covid19br.csv
     sus: treated_covid19_SUS_database.csv
 
 models:
