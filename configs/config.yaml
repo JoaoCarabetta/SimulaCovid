@@ -14,6 +14,7 @@ treated_paths:
 
 models:
     - sir
+    - seir
 
 model_parameters:
     sir:
@@ -21,7 +22,12 @@ model_parameters:
         i2_percentage: 15
         i3_percentage: 5
         days_from_t0: 365
-
+    seir:
+        sick_days: 15
+        i2_percentage: 15
+        i3_percentage: 5
+        days_from_t0: 365
+        sigma: 0.5
 
 scenarios:
     nothing: 
