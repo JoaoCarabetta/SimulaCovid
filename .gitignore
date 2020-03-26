@@ -83,3 +83,6 @@ target/
 data/output/model_for_city_imp_college.csv
 data/output/model_for_city_wuhan.csv
 data/output/model_for_city.csv
+
+data/treated/cities
+data/treated/dday

@@ -7,6 +7,7 @@ from paths import RAW_PATH
 from datetime import datetime as dt
 import numpy as np
 
+
 def city_cases_covid19br(path):
     """
     Collect & save COVID-19 cases dataset from covid19br repo
@@ -24,26 +25,31 @@ def city_cases_covid19br(path):
     
     return df#[cols]
 
-def city_cases_brasilio(path):
+def city_cases_brasilio(url):
     """
     Collect & save COVID-19 cases dataset from Brasil.IO
     """
     
     # Get data from API
-    response = requests.get(path)
+    df_final = pd.DataFrame()
 
-    data = response.text
-    parsed = json.loads(data)
-    df = pd.DataFrame(parsed['results'])
+    while url != None:
+        
+        response = requests.get(url)
+        data = response.text
+        parsed = json.loads(data)
+        url = parsed['next']
+        df = pd.DataFrame(parsed['results']).sort_values(by='confirmed',ascending=False)
+        df_final = pd.concat([df_final,df], axis=0)
 
     # Get current date & time
     today = str(dt.today())
-    df['last_update'] = today
+    df_final['last_update'] = today
 
     # Save/update raw dataset
-    df.to_csv(RAW_PATH / 'city_cases_brasilio.csv', index=False)
+    df_final.to_csv(RAW_PATH / 'city_cases_brasilio.csv', index=False)
     
-    return df
+    return df_final
 
     
 # if __name__ == '__main__':

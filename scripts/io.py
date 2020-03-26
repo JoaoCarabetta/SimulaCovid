@@ -3,13 +3,8 @@ import pandas
 import pandas_gbq
 import pydata_google_auth
 
+def _get_credentials_gbq():
 
-def to_gbq(df,table_name):
-
-    """
-    write a dataframe in Google BigQuery
-    """
-    
     SCOPES = [
         'https://www.googleapis.com/auth/cloud-platform',
         'https://www.googleapis.com/auth/drive',
@@ -23,17 +18,39 @@ def to_gbq(df,table_name):
         auth_local_webserver=True,
     )
 
+    return credentials
 
-    project_id = 'robusta-lab'
-    destination_table = 'simula_corona.{}'.format(table_name)
+
+def to_gbq(df, 
+            table_name, 
+            schema_name='simula_corona',
+            project_id='robusta-lab', 
+            **kwargs):
+    """
+    write a dataframe in Google BigQuery
+    """
+    
+    destination_table = f'{schema_name}.{table_name}'
 
     pandas_gbq.to_gbq(
         df,
         destination_table,
         project_id,
-        credentials=credentials,
-        if_exists='replace'
+        credentials=_get_credentials_gbq(),
+        **kwargs
     )
 
-    return('Done!')
+def read_gbq(query, 
+            project_id='robusta-lab', 
+            **kwargs):
+    """
+    write a dataframe in Google BigQuery
+    """
+
+    return pandas_gbq.read_gbq(
+        query,
+        project_id,
+        credentials=_get_credentials_gbq(),
+        **kwargs)
+
 

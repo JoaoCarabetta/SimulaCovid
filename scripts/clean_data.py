@@ -63,6 +63,7 @@ def treat_brasilio(filepath, to_path):
     cols = ['region_id', 'city', 'place_type', 'date', 'confirmed']
     
     # Get only last day data for each city
+    df = df
     df = df.drop_duplicates(subset=['city'], keep='first')
     df = df.sort_values(by='confirmed', ascending=False)
 

@@ -17,7 +17,7 @@ def entrypoint(current_state, model_parameters):
     args = {
         'y0': (current_state['population'] - current_state['current_infected'] - 0, # S
                current_state['current_infected'],                                   # I 
-               0                                                                    # R         
+               current_state['recovered']                                                                   # R         
               ),
         't': np.linspace(0, model_parameters['days_from_t0'], model_parameters['days_from_t0']+1),
         'args': (current_state['population'],                            # N
