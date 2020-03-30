@@ -86,3 +86,5 @@ data/output/model_for_city.csv
 
 data/treated/cities
 data/treated/dday
+
+configs/gcloud.json

@@ -38,10 +38,10 @@ def entrypoint(current_state, model_parameters):
             Exposed is being estimated given diseases growth of 33% per day.
     """
     args = {
-        'y0': (current_state['suceptible'], # S
+        'y0': (current_state['suceptible'],                                         # S
                current_state['exposed'],                                            # E
                current_state['current_infected'],                                   # I 
-               0                                                                    # R         
+               current_state['recovered']                                           # R         
               ),
         't': np.linspace(0, model_parameters['days_from_t0'], model_parameters['days_from_t0']+1),
         'args': (current_state['population'],                            # N

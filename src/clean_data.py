@@ -13,7 +13,7 @@ def create_region_id(city, state):
     """
     
     if city:
-        city_state = city.upper() + ' ' + state
+        city_state = (state + ' ' + city.upper()).replace(' ', '_').replace("'", '')
         return city_state
     
     return ''
@@ -45,9 +45,9 @@ def treat_covid19br(filepath, to_path):
     return df[cols]
 
     
-def treat_brasilio(filepath, to_path):
+def treat_brasilio(df):
     
-    df = pd.read_csv(RAW_PATH / filepath)
+    # df = pd.read_csv(RAW_PATH / filepath)
     
     # Fix city names
     df['city'] = df['city'].fillna('').str.replace('\'', '')
@@ -55,24 +55,29 @@ def treat_brasilio(filepath, to_path):
     # Create id for join
     df['region_id'] = df.apply(lambda row: create_region_id(row['city'], row['state']), axis=1)
     df['region_id'] = normalize_cols(df['region_id']) 
-    
-    # city = state when state data
-    mask = df['place_type']=='state'
-    df['region_id'] = np.where(mask, df['state'], df['region_id'])
-    
-    cols = ['region_id', 'city', 'place_type', 'date', 'confirmed']
-    
-    # Get only last day data for each city
-    df = df
-    df = df.drop_duplicates(subset=['city'], keep='first')
-    df = df.sort_values(by='confirmed', ascending=False)
 
-    cols = ['region_id', 'city', 'place_type', 'date', 'confirmed']
+    # get only the cities
+    mask = ((df['place_type']=='city') & (df['city_ibge_code'].notnull()))
+    df = df[mask].sort_values(by = ['region_id','date'])
     
-    # Save treated dataset
-    df[cols].to_csv(TREAT_PATH / to_path)
-    
-    return df
+
+    df['confirmed_shift'] = df['confirmed'].shift(1)
+    df['city_ibge_code_shift'] = df['city_ibge_code'].shift(1)
+
+    df['confirmed_shift'] = np.where(df['city_ibge_code_shift']!=df['city_ibge_code'], np.nan , df['confirmed_shift'])
+    df['new_cases'] = df['confirmed'] - df['confirmed_shift']
+    df['new_cases'] = np.where(df['confirmed_shift'].isnull(), df['confirmed'] , df['new_cases'])
+
+    mask =   ((df['new_cases']!=0) & (df['new_cases']>0) & (df['is_last']==True))
+    df['update'] = np.where(mask,True,False)
+
+    mask = df['is_last']==True
+    df = df[mask].rename(columns={"confirmed":'confirmed_real','deaths':'deaths_real'})
+
+
+    cols = ['region_id', 'date', 'confirmed_real','deaths_real','update']
+
+    return df[cols]
     
 
 def treat_sus(filepath, to_path):
@@ -109,7 +114,23 @@ def treat_sus(filepath, to_path):
     df.to_csv(TREAT_PATH / to_path)
 
     return df
+
+def treat_cities_cases(df_cases_brasilio,sus_cap,sus_regions):
+
+    cities_cases = pd.merge(sus_cap, df_cases_brasilio, on='region_id', how='left')\
+                    .rename(columns={'municipio':'city_name','uf':'state','date':'last_update'})
+    cities_cases = pd.merge(cities_cases, sus_regions[['region_id', 'sus_region_name']], 
+                on=['region_id'], how='left')
+
+    cities_cases['confirmed_inputed'] = np.where(cities_cases['confirmed_real'].isnull(),1,cities_cases['confirmed_real'])
+    cities_cases['deaths_inputed'] = np.where(cities_cases['deaths_real'].isnull(),0,cities_cases['deaths_real'])
+    cities_cases['update'] = cities_cases['update'].fillna(False)
+
+    cols = ['region_id', 'city_name', 'state','sus_region_name',
+            'confirmed_real', 'confirmed_inputed','deaths_real', 'deaths_inputed',
+        'last_update','quantidade_leitos','ventiladores_existentes','populacao','update']
     
+    return cities_cases[cols]
 
 # if __name__ == '__main__':
 #     treat_all()

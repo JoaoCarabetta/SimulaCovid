@@ -1,3 +1,12 @@
+gcloud:
+    storage:
+        bucket: 'brutos-publico'
+    bigquery:
+        project_id: 'robusta-lab'
+        schema: 
+            prod: 'simula_corona_prod'
+            dev: 'simula_corona'
+
 get_data_paths:
     cases_covid19br: https://raw.githubusercontent.com/wcota/covid19br/master/cases-brazil-cities-time.csv
     cases_brasilio: https://brasil.io/api/dataset/covid19/caso/data?format=json
@@ -28,6 +37,9 @@ model_parameters:
             upper_bound: 2.5
 
     seir:
+        notification_rate:
+            lower_bound: 1
+            upper_bound: 1
         sick_days: 
             lower_bound: 15
             upper_bound: 15
@@ -38,10 +50,13 @@ model_parameters:
             lower_bound: 2.5
             upper_bound: 2.5
         sigma: 
-            lower_bound: 0.2
-            upper_bound: 0.2
-      
-estimation_days: 60
+            lower_bound: 0.19
+            upper_bound: 0.19
+        doubling_rate:
+            lower_bound: 0.26
+            upper_bound: 0.26          
+        
+estimation_days: 90
 
 scenarios:
     nothing: 
@@ -52,17 +67,19 @@ scenarios:
         R0: 
             lower_bound: 1.21
             upper_bound: 1.31
-        dates: [1, 2, 3, 5, 7, 14, 21, 60]
+        dates: [1, 2, 3, 5, 7, 14, 21, 60, 90]
     lockdown:
         R0:
             lower_bound: 0.28
             upper_bound: 0.37
-        dates: [1, 2, 3, 5, 7, 14, 21, 60]
+        dates: [1, 2, 3, 5, 7, 14, 21, 60, 90]
 
 resources:
     - resource: quantidade_leitos
       infected: I2
-      variation_perc: [ 10, 20, 50, 75, 100, 125, 150, 200] 
+      variation_perc: [10, 20, 50, 75, 100, 125, 150, 200] 
     - resource: ventiladores_existentes
       infected: I3
       variation_perc: [10, 20, 50, 75, 100, 125, 150, 200] 
+
+number_of_threads: 20
